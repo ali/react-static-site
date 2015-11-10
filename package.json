@@ -49,7 +49,10 @@
     "webpack-hot-middleware": "^2.0.0"
   },
   "dependencies": {
+    "history": "^1.13.0",
+    "markdown-loader": "^0.1.7",
     "react": "^0.14.0",
-    "react-dom": "^0.14.0"
+    "react-dom": "^0.14.0",
+    "react-router": "^1.0.0"
   }
 }
